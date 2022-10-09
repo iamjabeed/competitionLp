@@ -3,7 +3,7 @@
 
 ![badges](https://img.shields.io/badge/HTML-CSS-orange)
 
-## [Live Link](https://strong-cocada-6bd036.netlify.app/)
+## [Live Link](https://competion.netlify.app/)
 
 ### project name:Competition Landing Page with pure html and css
 ## Hy, there!!
